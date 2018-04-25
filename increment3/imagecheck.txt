@@ -1,0 +1,13 @@
+C:/Users/brend/Desktop/a\addressbar.png
+C:/Users/brend/Desktop/a\chromeaddressbar1366x768.png
+C:/Users/brend/Desktop/a\chromeemail.png
+File found but not image
+C:/Users/brend/Desktop/a\small_addressbar.png
+C:/Users/brend/Desktop/a\small_chromeaddressbar1366x768.png
+C:/Users/brend/Desktop/a\small_chromeemail.png
+File found but not image
+C:/Users/brend/Desktop/a\small_small_addressbar.png
+C:/Users/brend/Desktop/a\small_small_chromeaddressbar1366x768.png
+C:/Users/brend/Desktop/a\small_small_chromeemail.png
+C:/Users/brend/Desktop/a\small_small_small_addressbar.png
+C:/Users/brend/Desktop/a\small_small_small_chromeaddressbar1366x768.png
